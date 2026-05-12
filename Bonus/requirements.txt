@@ -1,1 +1,1 @@
-pyTelegramBotAPI.txt
+requirements.txt
