@@ -52,4 +52,4 @@ def handle_all_messages(message):
 
 
 
-bot.polling()
+bot.infinity_polling(skip_pending=True)
